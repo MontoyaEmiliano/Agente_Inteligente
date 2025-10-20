@@ -1,0 +1,48 @@
+{
+  "historial_busquedas": [
+    {
+      "fecha": "2025-10-19 19:51:49",
+      "query": "Literatura 1900",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-10-19 19:54:49",
+      "query": "Guerras",
+      "num_resultados": 5
+    }
+  ],
+  "articulos_guardados": [
+    {
+      "id": 1,
+      "fecha_guardado": "2025-10-19 19:52:49",
+      "titulo": "5",
+      "resumen": "si",
+      "etiquetas": [
+        "ninguna"
+      ],
+      "url": null
+    },
+    {
+      "id": 2,
+      "fecha_guardado": "2025-10-19 19:54:04",
+      "titulo": "El peleonero",
+      "resumen": "sesesesesese",
+      "etiquetas": [
+        ""
+      ],
+      "url": null
+    }
+  ],
+  "etiquetas": [
+    "ninguna",
+    ""
+  ],
+  "preferencias": {
+    "temas_favoritos": [],
+    "idioma_preferido": "español"
+  },
+  "estadisticas": {
+    "total_busquedas": 2,
+    "total_articulos_guardados": 2
+  }
+}
