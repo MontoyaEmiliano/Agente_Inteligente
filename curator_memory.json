@@ -9,40 +9,154 @@
       "fecha": "2025-10-19 19:54:49",
       "query": "Guerras",
       "num_resultados": 5
+    },
+    {
+      "fecha": "2025-10-19 22:10:40",
+      "query": "Machine learning",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:22",
+      "query": "Guerra fría",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:24",
+      "query": "Guerra fría",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:45",
+      "query": "",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:46",
+      "query": "",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:52",
+      "query": "",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:56:55",
+      "query": "",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 09:58:10",
+      "query": "Donald trump",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 17:50:08",
+      "query": "tsunamis",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 17:53:12",
+      "query": "olas",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 17:57:36",
+      "query": "peleas",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 18:05:31",
+      "query": "Dragon ball",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 18:07:53",
+      "query": "Dragon ball",
+      "num_resultados": 5
+    },
+    {
+      "fecha": "2025-11-25 18:12:22",
+      "query": "Naruto",
+      "num_resultados": 5
     }
   ],
   "articulos_guardados": [
     {
-      "id": 1,
-      "fecha_guardado": "2025-10-19 19:52:49",
-      "titulo": "5",
-      "resumen": "si",
+      "id": 4,
+      "fecha_guardado": "2025-11-25 17:57:40",
+      "titulo": "Ingeniería del Caos: Provocando Fallas para Construir Sistemas Indestructibles",
+      "resumen": "Introduce la disciplina de la Ingeniería del Caos, donde se inyectan fallas deliberadamente en un sistema en producción para descubrir debilidades antes de que causen interrupciones reales. Aprende a diseñar experimentos controlados para mejorar la resiliencia del software y la tolerancia a fallos en entornos de microservicios y nube.",
       "etiquetas": [
-        "ninguna"
+        "DevOps",
+        "SRE",
+        "Resiliencia"
       ],
       "url": null
     },
     {
-      "id": 2,
-      "fecha_guardado": "2025-10-19 19:54:04",
-      "titulo": "El peleonero",
-      "resumen": "sesesesesese",
+      "id": 5,
+      "fecha_guardado": "2025-11-25 18:08:04",
+      "titulo": "**Análisis Cuantitativo del Escalado de Poder en Dragon Ball: Un Modelo de Regresión para la Consistencia Narrativa**",
+      "resumen": "Este artículo propone un marco de análisis para comprender y modelar el crecimiento exponencial de poder en el universo de Dragon Ball. Explora las inconsistencias y patrones, sugiriendo cómo un enfoque de regresión podría predecir o evaluar la coherencia de los niveles de poder a lo largo de las sagas, tratando el \"poder\" como una métrica de sistema.",
       "etiquetas": [
-        ""
+        "Data Science",
+        "Análisis de sistemas",
+        "Ficción científica",
+        "Modelado",
+        "Tarea"
+      ],
+      "url": null
+    },
+    {
+      "id": 6,
+      "fecha_guardado": "2025-11-25 18:08:59",
+      "titulo": "Resumen: El Ki como Energía Vital Ficticia\nEn el universo d...",
+      "resumen": "Aquí tienes el resumen estructurado del contenido técnico proporcionado:\n\n---\n\n**Resumen Estructurado del Análisis Técnico: El Ki y el Kamehameha desde una Perspectiva Termodinámica**\n\n**1. Resumen Ejecutivo:**\nEste análisis explora el \"Ki\" y el \"Kamehameha\" de Dragon Ball desde una perspectiva termodinámica real. Conceptualiza el Kamehameha como una descarga masiva de plasma, destacando la inmensa energía necesaria y su conformidad con las leyes de conservación de energía y aumento de la entropía, a pesar de su naturaleza ficticia.\n\n**2. Puntos Clave:**\n*   **El Ki como Energía Ficticia:** El Ki es la energía vital central en Dragon Ball, representando espíritu y voluntad, pero no existe como fuerza medible en la física real.\n*   **Kamehameha como Plasma:** Si fuera real, el Kamehameha se compondría de plasma (gas sobrecalentado y cargado eléctricamente), requiriendo una inmensa cantidad de energía.\n*   **Conservación de la Energía (Primera Ley):** La energía del Kamehameha no se crea de la nada; se transforma de fuentes como el metabolismo del usuario o el entorno (ej. Genkidama) en calor, luz y fuerza cinética.\n*   **Aumento de la Entropía (Segunda Ley):** La liberación de energía masiva en un Kamehameha resultaría en un drástico aumento de la entropía local, generando desorden (ondas de choque, calor, luz).\n*   **Escala de Poder Monumental:** El poder destructivo del Kamehameha varía enormemente, requiriendo billones de julios para hazañas como la destrucción planetaria, ilustrando la escala energética masiva.\n\n**3. Tecnologías Mencionadas:**\nNo se mencionan tecnologías reales específicas. El análisis se centra en conceptos de la física como el **plasma** y la **electricidad** (requerida para formar plasma) para explicar un fenómeno ficticio.\n\n**4. Público Objetivo:**\n*   Fans de Dragon Ball interesados en una interpretación científica de su universo.\n*   Estudiantes y entusiastas de la física, especialmente la termodinámica.\n*   Personas interesadas en la intersección entre la ciencia ficción y la ciencia real.\n*   Comunicadores científicos o creadores de contenido que busquen ejemplos de \"ciencia especulativa\".\n\n**5. Etiquetas Descriptivas:**\n*   Dragon Ball\n*   Termodinámica\n*   Física Especulativa\n*   Energía Ficticia\n*   Plasma",
+      "etiquetas": [
+        "Descriptivas:** Tarea"
+      ],
+      "url": null
+    },
+    {
+      "id": 7,
+      "fecha_guardado": "2025-11-25 18:12:52",
+      "titulo": "Taxonomía de Jutsu: Diseño de un Sistema de Clasificación Jerárquico para Habilidades Ninja",
+      "resumen": "Se propone un marco sistemático para clasificar los miles de jutsu existentes en el universo de Naruto. Este artículo detalla una ontología basada en elementos, tipo de efecto, complejidad, requisitos de chakra y ramificaciones de Kekkei Genkai, facilitando el análisis y la comparación de técnicas.",
+      "etiquetas": [
+        "Ciencia de datos",
+        "clasificación",
+        "bases de datos",
+        "Naruto"
       ],
       "url": null
     }
   ],
   "etiquetas": [
     "ninguna",
-    ""
+    "",
+    "Comida",
+    "Food",
+    "DevOps",
+    "SRE",
+    "Resiliencia",
+    "Data Science",
+    "Análisis de sistemas",
+    "Ficción científica",
+    "Modelado",
+    "Tarea",
+    "Descriptivas:** Tarea",
+    "Ciencia de datos",
+    "clasificación",
+    "bases de datos",
+    "Naruto"
   ],
   "preferencias": {
     "temas_favoritos": [],
     "idioma_preferido": "español"
   },
   "estadisticas": {
-    "total_busquedas": 2,
-    "total_articulos_guardados": 2
+    "total_busquedas": 16,
+    "total_articulos_guardados": 4
   }
 }
